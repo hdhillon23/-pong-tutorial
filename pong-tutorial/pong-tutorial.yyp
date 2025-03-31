@@ -34,6 +34,10 @@
   },
   "name":"pong-tutorial",
   "resources":[
+    {"id":{"name":"obj_Ball","path":"objects/obj_Ball/obj_Ball.yy",},},
+    {"id":{"name":"obj_LeftPaddle","path":"objects/obj_LeftPaddle/obj_LeftPaddle.yy",},},
+    {"id":{"name":"obj_RightPaddle","path":"objects/obj_RightPaddle/obj_RightPaddle.yy",},},
+    {"id":{"name":"obj_Wall","path":"objects/obj_Wall/obj_Wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_paddle","path":"sprites/spr_paddle/spr_paddle.yy",},},
